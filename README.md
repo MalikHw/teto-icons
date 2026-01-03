@@ -1,7 +1,8 @@
+![pic](IMG_20260103_013835.jpg)
 # teto-icons
 The iconset i play with in GD
 
-##$ For Now:
+### For Now:
 - only cube + ball
 
 ## How to get:
