@@ -1,7 +1,7 @@
 Add-Type -AssemblyName System.Windows.Forms
 $Host.UI.RawUI.WindowTitle = "Teto Icons Installer - by MalikHw47"
 
-$Url = "https://github.com/MalikHw/teto-cube/releases/latest/download/teto-cube.zip"
+$Url = "https://github.com/MalikHw/teto-icons/releases/latest/download/teto-icons.zip"
 $ZipName = "teto-cube.zip"
 $RelativePath = "geode\config\geode.texture-loader\packs"
 
